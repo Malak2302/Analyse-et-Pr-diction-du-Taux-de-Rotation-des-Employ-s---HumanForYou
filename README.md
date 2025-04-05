@@ -10,3 +10,7 @@ Identification des facteurs clés de départ
 Modélisation prédictive du churn des employés
 
 Recommandations pour améliorer la rétention
+
+Sources :
+Les données de ce projet sont des données générées issues de ce projet sur
+Kaggle : https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study
